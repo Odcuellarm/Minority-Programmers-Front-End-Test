@@ -1,0 +1,72 @@
+.gradient-bg{
+    background: rgb(255,54,135);
+    background: linear-gradient(90deg, rgba(255,54,135,1) 0%, rgba(255,125,69,1) 50%, rgba(255,199,1,1) 100%);
+    padding: 3%;
+}
+
+.upper-wrapper{
+    background-color: chartreuse;
+    height: 100px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+/*////////Styles for upper bar*/
+.prev-btn{
+    font-size: 50px;
+    margin: 0 10px;
+}
+.mango-icon{
+    height: 50%;
+    width: 12%;
+    margin-right: 4px;
+}
+.brand-title{
+    font-size: 30px;
+    font-weight: 600;
+    display: inline-block;
+}
+
+.uppernav-left{
+    background-color: #fff;
+    width: 31%;
+    height: 80%;
+    
+}
+/*//////////////End of styles for upper bar*/
+
+.body-wrapper{
+    background-color: blueviolet;
+    height: 900px;
+    width: 90%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.element{
+    background-color: coral;
+    width: 31%;
+    display: inline-block;
+}
+
+.body-left{
+    background-color: coral;
+    width: 33%;
+    height: 75%;
+}
+
+.body-right{
+    background-color: coral;
+    width: 65%;
+    height: 100%;
+}
+
+.body-right-up{
+    background-color: chartreuse;
+    height: 70%;
+}
+
+.body-right-down{
+    background-color: chartreuse;
+    height: 25%;
+}
